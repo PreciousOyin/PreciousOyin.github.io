@@ -1,4 +1,6 @@
 # Diabetes Predictor App
+Name: Precious Oyinloye
+
 ## App Instructions
 Enter patient health information into the form and click "Submit" to receive a predicted diabetes risk score.
 
