@@ -1,6 +1,6 @@
 # Diabetes Predictor App
 Name: Precious Oyinloye
-
+Link to Presentation Video: https://github.com/PreciousOyin/PreciousOyin.github.io/blob/main/Oyinloye_Precious_CapstoneVideo.mp4
 ## App Instructions
 Enter patient health information into the form and click "Submit" to receive a predicted diabetes risk score.
 
